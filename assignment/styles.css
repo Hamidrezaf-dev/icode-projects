@@ -1,0 +1,56 @@
+body {
+    background-color: #eeeeee;
+    margin: 30px;
+    padding: 20px;
+    font-family: Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 24px;
+    text-align: center;
+    }
+    h1 {
+        text-align: center;
+    }
+
+.inputClass {
+    width: 100%;
+    font-size: 18px;
+    border-color: gray;
+    border:grey solid 1px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+div {
+    
+    
+}
+.buttonClass {
+     cursor: pointer;
+width: 200px;
+}
+
+.checkboxClass{
+    cursor: pointer;
+    
+ 
+}
+
+.paragraphClass {
+    font-size: 18px;
+    font-weight: 300;
+
+}
+
+form {
+    position: relative;
+    max-width: 100%;
+}
+
+section {
+    float: unset;
+    display: block;
+    text-align: left;
+    padding: 15px;
+    max-width: 700px;
+}
